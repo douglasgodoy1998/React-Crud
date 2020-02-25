@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "sdfsdfsdfs",
+      "email": "dfsdfsdfsdfsdfsdf",
+      "id": 1
+    },
+    {
+      "name": "asdsdasdasda",
+      "email": "dadasdasdasdasd",
+      "id": 3
+    },
+    {
+      "name": "github.com/douglasgodoy1998",
+      "email": "douglasgodoy1998@hotmail.com",
+      "id": 4
+    },
+    {
+      "name": "github.com/douglasgodoy1998",
+      "email": "douglasgodoy1998@hotmail.com",
+      "id": 5
+    },
+    {
+      "name": "github.com/douglasgodoy1998",
+      "email": "\tdouglasgodoy1998@hotmail.com",
+      "id": 6
+    }
+  ]
+}
